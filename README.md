@@ -10,20 +10,20 @@ And then hit on the browser - `127.0.0.1:80/hello/kshiti`
 
 ![Output](https://github.com/kmurudi/flask-app-1/blob/master/flask1.PNG)
 
-It uses the template - test.html
+It uses the template - `test.html`
 
 2) File uploader app 
 `$ python uploader.py`
 
-Hit on the browseer - `127.0.0.1/upload` ->
+Hit on the browser - `127.0.0.1/upload` ->
 
 ![File upload Output](https://github.com/kmurudi/flask-app-1/blob/master/flask2.PNG)
 
 After hitting 'submit' button you shall see ->
-![File upload submission output](https://github.com/kmurudi/flask-app-1/blob/master/flask3.PNG)
+"File uploaded successfully!"
 
 
-It uses the template - upload.html 
+It uses the template - `upload.html` 
 
 **NOTE -> If you intend to run files with same port numbers, then run second file only after killing the process running on that port (e.g. 5000) due to first file, else your URL for file upload will not work**
 
