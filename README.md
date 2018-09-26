@@ -8,7 +8,7 @@ Here, Flask framework is used to make a web app. I am demonstrating two function
 `$ python hello.py`
 And then hit on the browser - `127.0.0.1:80/hello/kshiti`
 
-![Output][https://github.com/kmurudi/flask-app-1/blob/master/flask1.PNG]
+![Output](https://github.com/kmurudi/flask-app-1/blob/master/flask1.PNG)
 
 It uses the template - test.html
 
@@ -17,10 +17,10 @@ It uses the template - test.html
 
 Hit on the browseer - `127.0.0.1/upload` ->
 
-![File upload Output][https://github.com/kmurudi/flask-app-1/blob/master/flask2.PNG]
+![File upload Output](https://github.com/kmurudi/flask-app-1/blob/master/flask2.PNG)
 
 After hitting 'submit' button you shall see ->
-![File upload submission output][https://github.com/kmurudi/flask-app-1/blob/master/flask3.PNG]
+![File upload submission output](https://github.com/kmurudi/flask-app-1/blob/master/flask3.PNG)
 
 
 It uses the template - upload.html 
